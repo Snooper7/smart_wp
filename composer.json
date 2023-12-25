@@ -14,6 +14,5 @@
             "email": "snooper7@yandex.ru"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
