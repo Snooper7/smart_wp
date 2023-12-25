@@ -1,0 +1,19 @@
+{
+    "name": "snooper/smart-wp",
+    "description": "Develop wordpress site smarter",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Snooper\\SmartWp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Snooper",
+            "email": "snooper7@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
